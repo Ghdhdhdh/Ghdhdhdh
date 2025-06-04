@@ -1,29 +1,13 @@
-### Hi there 👋
-I'm Jacob. <br>
-I code <br>
-My teacher asked me if i have applied for a private scholarship yesterday <br>
-And I should probably do my homework now <br>
-This is turning into a poem <br>
-so one more thing before i go <br>
-C++ <br>
-C# <br>
-C <br>
-you can all go fuck off <br>
-I like my programming languages like i like my women <br>
-Simple, and don't tell lies. <br>
-> In all seriousness, I make some relly cool stuff that may actually have an impact in your day to day life! <br>
-> Pull requests are cool, and merging them is even cooler.
-<!--
-**Ghdhdhdh/Ghdhdhdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ About Me
 
-Here are some ideas to get you started:
+I'm a chaos-curious coder, speedcuber, and all-around tech tinkerer. Whether I'm simulating Rubik’s Cube solves in Python or 3D printing a magnetic maglev cube that won't explode on the first turn, I live for weird side projects and experiments that bend the rules (and sometimes reality).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I build things like:
+- 🔁 USB-portable Python tools with zero dependencies  
+- 🧊 Rubik’s Cube simulators and analytics (Cross, F2L, OLL, PLL)  
+- 🌐 Flask-based dashboards & custom web utilities  
+- 🧪 Experimental scripts, generators, and absurd `RetCon()` logic bombs  
+
+I like to **break things to understand them**, **automate what shouldn't be automated**, and **code with just enough chaos to make it interesting**.
+
+> ⚠️ Warning: Contains magnets, Python, and morally questionable ideas for educational purposes only.
